@@ -3,4 +3,4 @@
 # *
 # *
 # RF Kontrollü Robotik El
- Inmoov 3d modelleri kullanılarak okul projesi için oluşturuldu. Gerekli tüm açıklamalar dosyalarda mevcuttur.
+ Inmoov 3d modelleri kullanılarak okul projesi için oluşturuldu. Gerekli tüm açıklamalar dosyalarda mevcuttur
